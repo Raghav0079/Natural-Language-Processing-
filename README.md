@@ -12,8 +12,7 @@ Welcome to the NLP Projects Repository! This repository showcases two key projec
 3. [Libraries Used](#libraries-used)
 4. [How to Use](#how-to-use)
 5. [Installation](#installation)
-6. [Future Improvements](#future-improvements)
-7. [License](#license)
+
 
 ---
 
